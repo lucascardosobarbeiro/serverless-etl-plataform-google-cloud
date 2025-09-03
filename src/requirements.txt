@@ -1,0 +1,8 @@
+# Bibliotecas de processamento de dados e API
+pandas
+requests
+pyarrow
+
+# Bibliotecas do Google Cloud
+google-cloud-bigquery
+db-dtypes
