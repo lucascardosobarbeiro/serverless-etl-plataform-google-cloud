@@ -34,7 +34,7 @@ This pipeline was developed as a portfolio project to demonstrate skills in data
 
 The architecture is designed to be 100% serverless, ensuring scalability, low cost, and minimal operational overhead.
 
-<img src="./arquitetura/gcp_etl_architecture.png" alt="Arquitetura do Pipeline ETL na GCP" width="800"/>
+<img src="./arquitetura/gcp_etl_architecture.png" alt="Arquitetura do Pipeline ETL na GCP" height="800" width="800"/>
 
 **Data Flow:**
 1.  **Cloud Scheduler:** Acts as a cron job, triggering the pipeline on a set schedule (e.g., daily).
