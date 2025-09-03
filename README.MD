@@ -31,6 +31,7 @@ This pipeline was developed as a portfolio project to demonstrate skills in data
 
 ### 🏛️ Solution Architecture
 
+
 The architecture is designed to be 100% serverless, ensuring scalability, low cost, and minimal operational overhead.
 
 ![Solution Architecture](./arquitetura/gcp_etl_architecture.png)
